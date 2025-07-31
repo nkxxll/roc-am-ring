@@ -1,5 +1,11 @@
 *
 
 !.gitignore
-!tutorial/*
-!examples/*
+!tutorial/
+!tutorial/application.roc
+!tutorial/Makefile
+tutorial/application
+!examples/
+!examples/web.roc
+!examples/Makefile
+examples/web
